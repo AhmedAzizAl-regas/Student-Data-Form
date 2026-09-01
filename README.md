@@ -6,9 +6,14 @@
 
 ## 📸 لقطات التطبيق
 
-![لقطة 1](https://i.postimg.cc/HW62pp15/20260902-000833.png)
-![لقطة 2](https://i.postimg.cc/t4xttWZV/20260902-000846.png)
-![لقطة 3](https://i.postimg.cc/fy1SJqK4/20260902-000855.png)
+<p align="center">
+  <img src="https://i.postimg.cc/HW62pp15/20260902-000833.png" width="320" alt="لقطة 1" />
+  <img src="https://i.postimg.cc/t4xttWZV/20260902-000846.png" width="320" alt="لقطة 2" />
+</p>
+
+<p align="center">
+  <img src="https://i.postimg.cc/fy1SJqK4/20260902-000855.png" width="360" alt="لقطة 3" />
+</p>
 
 ---
 
